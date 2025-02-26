@@ -1,0 +1,10 @@
+Setting up a new source:
+1. Log in to your Segment account.
+2. Go to the "Sources" tab.
+3. Click "Add Source".
+4. Follow the on-screen instructions.
+Tracking events:
+1. Go to the "Events" tab in Segment.
+2. Click "Track Event".
+3. Enter the event name and properties.
+4. Save and activate the event.

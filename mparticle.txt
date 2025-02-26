@@ -1,0 +1,10 @@
+Creating a user profile:
+1. Log in to your mParticle account.
+2. Navigate to the "Profiles" section.
+3. Click "Create Profile".
+4. Fill in the required details.
+Data pipeline setup:
+1. Navigate to the "Data Pipeline" section.
+2. Click "Create Pipeline".
+3. Configure the source and destination.
+4. Test and activate the pipeline.

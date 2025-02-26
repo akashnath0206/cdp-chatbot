@@ -1,0 +1,10 @@
+How do I set up a new source in Segment? -> segment.txt:Setting up a new source
+How can I create a user profile in mParticle? -> mparticle.txt:Creating a user profile
+How do I build an audience segment in Lytics? -> lytics.txt:Building an audience segment
+How can I integrate my data with Zeotap? -> zeotap.txt:Integrating data
+How do I track events in Segment? -> segment.txt:Tracking events
+How can I set up a data pipeline in mParticle? -> mparticle.txt:Data pipeline setup
+How do I export data from Lytics? -> lytics.txt:Exporting data
+How can I analyze data in Zeotap? -> zeotap.txt:Data analysis
+How does Segment's audience creation process compare to Lytics'? -> comparisons.txt:Segment vs Lytics audience creation
+How do I configure advanced integrations in Zeotap? -> zeotap.txt:Advanced integrations

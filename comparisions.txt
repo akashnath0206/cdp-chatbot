@@ -1,0 +1,3 @@
+Segment vs Lytics audience creation:
+- Segment: Audience creation is based on event tracking and user traits.
+- Lytics: Audience creation uses machine learning to analyze user behavior.

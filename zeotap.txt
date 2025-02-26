@@ -1,0 +1,10 @@
+Integrating data:
+1. Log in to your Zeotap account.
+2. Go to the "Integrations" section.
+3. Select your data source.
+4. Follow the integration steps.
+Advanced integrations:
+1. Go to the "Advanced Settings" tab.
+2. Select "Custom Integrations".
+3. Configure the API endpoints.
+4. Test the integration and save.
